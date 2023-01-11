@@ -1,4 +1,4 @@
-# InfiniteFusion
+# InfiniteFusion Challenges
 Pokemon Infinite Fusion Modding
 
 ### Contents:
