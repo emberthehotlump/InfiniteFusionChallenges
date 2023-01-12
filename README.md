@@ -11,4 +11,6 @@ They are all level 1, male and have 0 IVs in all stats.
 The idea of the challenge is to only use Pokemons that have been fused with Sylveon
 making the fusion have the colors of the trans pride flag.
 
-Tested for save files of version 5.0.0 of Pokemon Infinite Fusion.
+Tested for save files of version 5.1.1 of Pokemon Infinite Fusion.
+
+Inspired by: [@anri.12456](https://www.tiktok.com/@anri.12456?_t=8Yx3YXk4l6s&_r=1)
