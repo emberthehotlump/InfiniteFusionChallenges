@@ -3,7 +3,7 @@ Pokemon Infinite Fusion Modding
 
 ### Contents:
 
-##### Trans-locke (v.1):
+##### Trans-fusion (v.1):
 An application that allows you to add Sylveons to your PC by providing an existing save file.
 The Sylveons generated are holding a DNA Splicers item so that they can be immediately fused with other Pokemon.
 They are all level 1, male and have 0 IVs in all stats.
