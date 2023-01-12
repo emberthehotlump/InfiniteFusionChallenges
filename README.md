@@ -14,7 +14,7 @@ making the fusion have the colors of the trans pride flag.
 Tested for save files of version 5.1.1 of Pokemon Infinite Fusion.
 
 Inspired by: [@anri.12456](https://www.tiktok.com/@anri.12456?_t=8Yx3YXk4l6s&_r=1)
-
+<br /><br />
 
 ##### Egg Challenge (WIP):
 An application that allows you to add randomly generated eggs to your PC.
